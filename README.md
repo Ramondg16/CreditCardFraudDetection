@@ -40,8 +40,6 @@ This project executes an end-to-end data science pipeline, focusing on solutions
 ## Key Visualizations
 
 * 
-* 
-* 
 
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/8d9c43c2-6d5c-4fdf-af16-b721db7f3aca" />
 
