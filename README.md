@@ -9,11 +9,11 @@
 The **Random Forest Classifier** was selected as the optimal model because it offered the best balance between identifying fraud (Recall) and minimizing false alarms (Precision), resulting in the largest net financial gain.
 
 | Model | AUC | Precision (Class 1) | Recall (Class 1) | Financial Gain (Test Set Example) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+
 | **Random Forest (Optimal)** | **0.981** | **0.75** | **0.83** | **+ $56,700** |
-| Neural Network | 0.965 | 0.72 | 0.79 | *(Calculation Pending)* |
 | Logistic Regression | 0.973 | 0.06 | 0.89 | - $180,700 |
-| K-Neighbors | 0.935 | 0.33 | 0.87 | *(Calculation Pending)* |
+| Neural Network | 0.965 | 0.72 | 0.79 |
+| K-Neighbors | 0.935 | 0.33 | 0.87 |
 
 ---
 
